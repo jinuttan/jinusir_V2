@@ -1,10 +1,10 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Shadow-sir_v2+WA+Bot...;Created+by+Shadow...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+jinu-sir_v2+WA+Bot...;Created+by+jinu...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/dKrkLLY/Pics-Art-09-19-09-18-57.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/D8Bw8GZ/logo-png.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Shadow-sir_v2" src="https://img.shields.io/badge/-Shadow sir-red?&style=for-the-badge"></a>
 </p>
