@@ -122,7 +122,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![jinan](https://github.com/Shadow-sir-v1.png?size=100)](https://github.com/jinuttan)
+  [![jinan](https://i.ibb.co/TcMSXvf/Pics-Art-10-02-02-56.jpg)](https://github.com/jinuttan)
 
 [jinan](https://github.com/jinuttan)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
