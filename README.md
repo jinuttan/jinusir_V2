@@ -6,11 +6,11 @@
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/D8Bw8GZ/logo-png.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Shadow-sir_v2" src="https://img.shields.io/badge/-Shadow sir-red?&style=for-the-badge"></a>
+<a href="#"><img title="jinu-sir_v2" src="https://img.shields.io/badge/-Shadow sir-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="#"><img title="Shadow" src="https://img.shields.io/badge/Shadow-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="jinu" src="https://img.shields.io/badge/Shadow-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 </div>
@@ -95,7 +95,7 @@ $ node bot.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-<a href="https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/JscI6briAP7KmxbZUW8ua7"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
 
     
