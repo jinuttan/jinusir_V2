@@ -18,20 +18,20 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Shadow-sir_v2*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*jinusir_v2*
  
 
-        *Github link        _https://github.com/Shadow-Sir-V1/Shadow-sir_V2*
+        *Github link        _https://github.com/jinuttan/jinusir_V2*
  
-       *Bot Making Video    _https://youtu.be/fCKFDo9tiQ0_*
+       *instagram    _https://instagram.com/jinu__777?utm_medium=copy_link_*
 
-       *Audio commads-1     _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/upload_*
+       *Audio commads-1     _https://github.com/jinuttan/jinusir_V2/tree/master/upload_*
  
 
-       *Audio commads-2     _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/uploads_*
+       *Audio commads-2     _https://github.com/jinuttan/jinusir_V2/tree/master/uploads*
   
   
-      *Sticker commads      _https://github.com/Shadow-Sir-V1/Shadow-sir_V2/tree/master/stickers_*
+      *Sticker commads      _https://github.com/jinuttan/jinusir_V2/tree/master/stickers_*
 `}) 
 
 })); 
